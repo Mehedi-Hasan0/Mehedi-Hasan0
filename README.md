@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan0&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan0" /> </p>
 
-- 🌱 I’m currently learning **Redux, MongoDB & ExpressJs**
+- 🌱 I’m currently learning **SQL, RTK query & Prisma**
 
-- 💬 Talk to me about **React, Javascript, Node, Freelancing Opportunities e.t.c**
+- 💬 Talk to me about **React, Next JS, Typescript, Javascript, Node, Freelancing Opportunities e.t.c**
 
 - 📫 Reach me **dev.mahedihasan@gmail.com**
 
