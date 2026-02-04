@@ -1,25 +1,77 @@
-<h1 align="center">Hi 👋, I'm Mahedi Hasan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+### 👋 Hey, I’m Mahedi Hasan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hasan0&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hasan0" /> </p>
+I’m a **full-stack developer** from Bangladesh 🇧🇩 with a strong frontend foundation and a growing focus on backend systems and AI-powered products.
 
-- 🌱 I’m currently learning **SQL & Prisma**
+My journey started with building user interfaces, but curiosity pushed me deeper — into **system design, performance optimization, and scalable backend architecture**.  
+Today, I work at **Shothik AI**, contributing to production-grade applications built with **Next.js, TypeScript, Node.js, and LLM-driven workflows**.
 
-- 💬 Talk to me about **React, Next JS, Typescript, Javascript, NodeJS, NestJS, Freelancing Opportunities e.t.c**
+I enjoy working on problems where product thinking meets engineering — making things faster, cleaner, and easier to use.
 
-- 📫 Reach me **dev.mahedihasan@gmail.com**
+If you’re building something interesting, I’d love to collaborate 🤍
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mhmahedihasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mhmahedihasan/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100023630025331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100023630025331" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 💡 What I Care About
+- Building **maintainable, scalable web applications**
+- Writing clean, predictable **TypeScript & backend logic**
+- Improving **performance, reliability, and developer experience**
+- Learning how modern **AI systems integrate with real products**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-hasan0&show_icons=true&locale=en&layout=compact" alt="mehedi-hasan0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan0&show_icons=true&locale=en" alt="mehedi-hasan0" /></p>
+### 🧰 Technologies I Work With
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan0&" alt="mehedi-hasan0" /></p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwindcss,redux,nodejs,nestjs" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgresql,redis,rabbitmq,prisma,aws,linux" />
+
+---
+
+### 🔎 Current Focus
+- Performance-critical **Next.js** applications  
+- **LLM pipelines**, embeddings, and vector search (RAG)  
+- Scalable APIs with **Node.js & NestJS**  
+- Async processing using **queues & background jobs**
+
+---
+
+### 📫 Let’s Connect
+
+<a href="mailto:developermahedihasan@gmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/mhmahedihasan/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+</a>
+<a href="https://github.com/mehedi-hasan0">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100023630025331">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook" />
+</a>
+
+---
+
+### 📊 GitHub Activity
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-hasan0&layout=compact&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mehedi-hasan0&show_icons=true&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-hasan0&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
