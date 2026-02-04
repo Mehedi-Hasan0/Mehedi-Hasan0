@@ -5,7 +5,7 @@ I’m a **full-stack developer** from Bangladesh 🇧🇩 with a strong frontend
 My journey started with building user interfaces, but curiosity pushed me deeper into **system design, performance optimization, and scalable backend architecture**.  
 Today, I work at **Shothik AI**, contributing to production-grade applications built with **Next.js, TypeScript, Node.js, and LLM-driven workflows**.
 
-I enjoy working on problems where product thinking meets engineering — making things faster, cleaner, and easier to use.
+I enjoy working on problems where product thinking meets engineering, making things faster, cleaner, and easier to use.
 If you’re building something interesting, I’d love to collaborate 🤍
 
 ---
